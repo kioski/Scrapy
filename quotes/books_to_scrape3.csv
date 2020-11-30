@@ -1,0 +1,199 @@
+bookName,starRating,bookPrice in (EUR),imageLink
+A Light in the Attic,Three,51.77,http://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg
+Tipping the Velvet,One,53.74,http://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg
+Soumission,One,50.10,http://books.toscrape.com/media/cache/3e/ef/3eef99c9d9adef34639f510662022830.jpg
+Sapiens: A Brief History of Humankind,Five,54.23,http://books.toscrape.com/media/cache/be/a5/bea5697f2534a2f86a3ef27b5a8c12a6.jpg
+The Black Maria,One,52.15,http://books.toscrape.com/media/cache/58/46/5846057e28022268153beff6d352b06c.jpg
+Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Five,52.29,http://books.toscrape.com/media/cache/94/b1/94b1b8b244bce9677c2f29ccc890d4d2.jpg
+"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Three,57.25,http://books.toscrape.com/media/cache/54/60/54607fe8945897cdcced0044103b10b6.jpg
+Libertarianism for Beginners,Two,51.33,http://books.toscrape.com/media/cache/0b/bc/0bbcd0a6f4bcd81ccb1049a52736406e.jpg
+Birdsong: A Story in Pictures,Three,54.64,http://books.toscrape.com/media/cache/af/6e/af6e796160fe63e0cf19d44395c7ddf2.jpg
+Aladdin and His Wonderful Lamp,Three,53.13,http://books.toscrape.com/media/cache/d6/da/d6da0371958068bbaf39ea9c174275cd.jpg
+Behind Closed Doors,Four,52.22,http://books.toscrape.com/media/cache/e1/5c/e15c289ba58cea38519e1281e859f0c1.jpg
+Slow States of Collapse: Poems,Three,57.31,http://books.toscrape.com/media/cache/72/41/72417db983862010ef0c1a25de98c7d7.jpg
+"We Love You, Charlie Freeman",Five,50.27,http://books.toscrape.com/media/cache/5f/15/5f152afdbc42356ecba02f61058a7e5b.jpg
+The Secret of Dreadwillow Carse,One,56.13,http://books.toscrape.com/media/cache/c4/a2/c4a2a1a026c67bcceb5a411c724d7d0c.jpg
+"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",One,56.41,http://books.toscrape.com/media/cache/b7/f4/b7f4843dbe062d44be1ffcfa16b2faa4.jpg
+The Past Never Ends,Four,56.50,http://books.toscrape.com/media/cache/89/b8/89b850edb01851a91f64ba114b96acb6.jpg
+Masks and Shadows,Two,56.40,http://books.toscrape.com/media/cache/ff/e8/ffe81bf98f8386ef29e193abfb6f9c1e.jpg
+Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),Two,53.90,http://books.toscrape.com/media/cache/5f/52/5f52b1bc6d45daab2e330c744feb0359.jpg
+The Murder That Never Was (Forensic Instincts #5),Three,54.11,http://books.toscrape.com/media/cache/dc/44/dc44f8e2aebac48ca8553814d9b021a8.jpg
+The Electric Pencil: Drawings from Inside State Hospital No. 3,One,56.06,http://books.toscrape.com/media/cache/2e/23/2e236e23ad52aa74505f224f6552eda8.jpg
+The Death of Humanity: and the Case for Life,Four,58.11,http://books.toscrape.com/media/cache/71/df/71df730cf38c232ee58a2e407135f055.jpg
+"Saga, Volume 5 (Saga (Collected Editions) #5)",Two,51.04,http://books.toscrape.com/media/cache/e1/ea/e1ea6cb36e62ae6dc7b805f68ab9a700.jpg
+"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",Three,50.40,http://books.toscrape.com/media/cache/f3/ef/f3efd43ae0fa85d9b325d5e8783e7af5.jpg
+The Regional Office Is Under Attack!,Five,51.36,http://books.toscrape.com/media/cache/f8/31/f8314c7fdaa79fb7191a583e9a852db8.jpg
+The Matchmaker's Playbook (Wingmen Inc. #1),One,55.85,http://books.toscrape.com/media/cache/84/ac/84acb0606c96e55dc729a9d6572a08fb.jpg
+The Girl on the Train,Two,55.02,http://books.toscrape.com/media/cache/25/6c/256c946dd0962095f66c6de3b15ab300.jpg
+Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,Five,57.36,http://books.toscrape.com/media/cache/26/1c/261c4eaf957ae4aacf2229b482e76dbe.jpg
+I am a Hero Omnibus Volume 1,Three,54.63,http://books.toscrape.com/media/cache/16/d4/16d443437126bf6d536a89312c1995a5.jpg
+Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,Two,54.35,http://books.toscrape.com/media/cache/64/94/6494bf61176ca73b61255909230030be.jpg
+Danganronpa Volume 1,Four,51.99,http://books.toscrape.com/media/cache/78/97/7897eea91c4a85aca58d925861d4afec.jpg
+"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",Five,56.76,http://books.toscrape.com/media/cache/08/89/088995e862aac86c88c608d763f6390e.jpg
+A Flight of Arrows (The Pathfinders #2),Five,55.53,http://books.toscrape.com/media/cache/82/96/8296f92b70fb1dafefecda92c1d51941.jpg
+A Court of Thorns and Roses (A Court of Thorns and Roses #1),One,52.37,http://books.toscrape.com/media/cache/c0/88/c08816960890396213a423941af65b8f.jpg
+(Un)Qualified: How God Uses Broken People to Do Big Things,Five,54.00,http://books.toscrape.com/media/cache/cd/db/cddb3eb483ef11a088d519205b7098fb.jpg
+Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,One,59.64,http://books.toscrape.com/media/cache/97/47/974709d437b08e74649b5744471bf472.jpg
+Thirteen Reasons Why,One,52.72,http://books.toscrape.com/media/cache/8a/83/8a83b6ce350f01bab21f85e6ba539316.jpg
+The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,Four,58.08,http://books.toscrape.com/media/cache/26/32/2632a1e12f2c085fabbe022ae4cd6933.jpg
+Suddenly in Love (Lake Haven #1),Two,55.99,http://books.toscrape.com/media/cache/e9/f4/e9f4bc8cf5ffaea1504623c936e90a48.jpg
+I Had a Nice Time And Other Lies...: How to find love & sh*t like that,Four,57.36,http://books.toscrape.com/media/cache/5f/72/5f72c8a0d5a7292e2929a354ec8a022f.jpg
+Finders Keepers (Bill Hodges Trilogy #2),Five,53.53,http://books.toscrape.com/media/cache/6a/81/6a81103b1c01a3f6c56e5718a838a4c8.jpg
+Eureka Trivia 6.0,Four,54.59,http://books.toscrape.com/media/cache/96/17/96173470df6fc6fef4d0008e957653ce.jpg
+Amatus,Five,50.54,http://books.toscrape.com/media/cache/8f/92/8f92c3b5dc8f5c1a23324bda7477b19c.jpg
+Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,Four,52.65,http://books.toscrape.com/media/cache/db/1b/db1babd3c09b84da800b0e9897fe0097.jpg
+"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",One,53.90,http://books.toscrape.com/media/cache/66/d6/66d6d2b4c0acfa8f40ad0285186ed2d8.jpg
+The Wright Brothers,Four,56.80,http://books.toscrape.com/media/cache/02/2e/022e8b81ba1405991401bb46d6330c73.jpg
+The Testament of Mary,Four,52.67,http://books.toscrape.com/media/cache/83/05/8305154438c91a02cefacf4ec8b53393.jpg
+The Rosie Project (Don Tillman #1),One,54.04,http://books.toscrape.com/media/cache/f0/db/f0db1cf76d45f0522d4c8c3c39aa0dd8.jpg
+The Last Mile (Amos Decker #2),Two,54.21,http://books.toscrape.com/media/cache/37/f1/37f118b4a56d866e1e8b563759d6966c.jpg
+The Hidden Oracle (The Trials of Apollo #1),Two,52.26,http://books.toscrape.com/media/cache/b4/67/b467a4f01ca6ae8464b9425a156c7c32.jpg
+City of Glass (The Mortal Instruments #3),Four,56.02,http://books.toscrape.com/media/cache/00/08/0008e65aa431ed3625ad3a4352f8e90d.jpg
+Catching Jordan (Hundred Oaks),Three,50.83,http://books.toscrape.com/media/cache/ad/ac/adac97366586d261feab30bf5220756e.jpg
+Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,Five,50.62,http://books.toscrape.com/media/cache/74/aa/74aa29b1ba4147eaf5b46671bf235861.jpg
+Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),Four,58.14,http://books.toscrape.com/media/cache/61/1a/611aba0ef5b859ba1977ef30677b0194.jpg
+Angels & Demons (Robert Langdon #1),Three,51.48,http://books.toscrape.com/media/cache/b4/2a/b42a187c37de904f776070c57f51c756.jpg
+Someone Like You (The Harrisons #2),Five,52.79,http://books.toscrape.com/media/cache/e3/d0/e3d05227f3fc24f0e0c84ccebe108fb0.jpg
+Luis Paints the World,Three,53.95,http://books.toscrape.com/media/cache/85/e7/85e75d5a9309da5807c82decf3d90263.jpg
+Lowriders to the Center of the Earth (Lowriders in Space #2),Two,51.51,http://books.toscrape.com/media/cache/b2/97/b2978e96069dd91785e5ab0bc99c022e.jpg
+Shtum,Four,55.84,http://books.toscrape.com/media/cache/03/16/0316bb6f4785ac69c0643109201bad5d.jpg
+"Quarter Life Poetry: Poems for the Young, Broke and Hangry",Five,50.89,http://books.toscrape.com/media/cache/c8/f2/c8f297fab080ddd02b3ed5c17b83af85.jpg
+"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",Three,52.15,http://books.toscrape.com/media/cache/9c/da/9cda4893c7fce0c1c8eaa34fb092aa04.jpg
+Hamilton: The Revolution,Three,58.79,http://books.toscrape.com/media/cache/34/ef/34ef0844cb1fbca6ab73444087fcf0e6.jpg
+El Deafo,Five,57.62,http://books.toscrape.com/media/cache/34/eb/34eb0f1b570d4f1f6ad106652f1ac6ff.jpg
+"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",Five,51.75,http://books.toscrape.com/media/cache/b1/e1/b1e15eef42c0d71596f9f9ad4e9f48b0.jpg
+"Eat Fat, Get Thin",Two,54.07,http://books.toscrape.com/media/cache/62/3f/623f8e7f7432ce744f4318aae8166ce4.jpg
+Don't Get Caught,One,55.35,http://books.toscrape.com/media/cache/b2/df/b2df2ea409c5cf28538b67aff424b11f.jpg
+Abstract City,Five,56.37,http://books.toscrape.com/media/cache/e7/70/e77019ebd71bcf6badb085bddf47c413.jpg
+"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",Two,56.48,http://books.toscrape.com/media/cache/9b/20/9b2076ce7414103a093ce2459d089969.jpg
+A Brush of Wings (Angels Walking #3),One,55.51,http://books.toscrape.com/media/cache/4d/16/4d163d43cb4aa624e599330a39abace5.jpg
+The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,Four,59.15,http://books.toscrape.com/media/cache/9f/25/9f255826f354776dda9afbd5576a7add.jpg
+The Dinner Party,Two,56.54,http://books.toscrape.com/media/cache/ba/76/ba761d23c5c0e5a0638e04739c69c5d0.jpg
+The Diary of a Young Girl,Three,59.90,http://books.toscrape.com/media/cache/83/d5/83d5526864a108d27fd4b03dd31ec18b.jpg
+No Love Allowed (Dodge Cove #1),Four,54.65,http://books.toscrape.com/media/cache/70/3e/703e053877204a396ec6e7beac863118.jpg
+Murder at the 42nd Street Library (Raymond Ambler #1),Four,54.36,http://books.toscrape.com/media/cache/c3/8d/c38d65cd155b67ca025f0655bd1bb095.jpg
+How to Speak Golf: An Illustrated Guide to Links Lingo,Five,58.32,http://books.toscrape.com/media/cache/d2/64/d264ad1af882ce391005dc7215ac90e7.jpg
+Equal Is Unfair: America's Misguided Fight Against Income Inequality,One,56.86,http://books.toscrape.com/media/cache/00/11/001153d2a22d889837efac1703e10a5e.jpg
+Eleanor & Park,Five,56.51,http://books.toscrape.com/media/cache/ed/d7/edd781d3c9d63a395f80f241445e88fa.jpg
+Boar Island (Anna Pigeon #19),Three,59.48,http://books.toscrape.com/media/cache/d5/81/d58157866ea8f015a8e4c55b23b8c96f.jpg
+The Improbability of Love,One,59.45,http://books.toscrape.com/media/cache/06/49/06493269f6893cfd24b650f66df51882.jpg
+Take Me Home Tonight (Rock Star Romance #3),Three,53.98,http://books.toscrape.com/media/cache/a6/4b/a64b3c559f59748bfdbbe75be3e16075.jpg
+It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,Three,56.27,http://books.toscrape.com/media/cache/ee/a9/eea9e831f8964b4dc0190c84a1f9a1f6.jpg
+"Exit, Pursued by a Bear",Four,51.34,http://books.toscrape.com/media/cache/ca/99/ca99bafb2a75d4fadb8d64efed26316f.jpg
+Watchmen,Four,58.05,http://books.toscrape.com/media/cache/0b/43/0b43137f35134bf211608d1e7197b086.jpg
+Unlimited Intuition Now,Four,58.87,http://books.toscrape.com/media/cache/61/46/6146f9ffb87a4f82301d033aa74cc48b.jpg
+"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",One,55.91,http://books.toscrape.com/media/cache/5e/7f/5e7f7d9913d4c95d33904770c518d537.jpg
+The Art and Science of Low Carbohydrate Living,Five,52.98,http://books.toscrape.com/media/cache/4b/d4/4bd43108fb070ad8ebba9cdb00b14069.jpg
+The Alien Club,One,54.40,http://books.toscrape.com/media/cache/93/d0/93d01bc6bce58e8efbf560e9e3dc3379.jpg
+Suzie Snowflake: One beautiful flake (a self-esteem story),Five,54.81,http://books.toscrape.com/media/cache/db/cc/dbcc9d63b73ce9058d53f36465dbe2b2.jpg
+Proofs of God: Classical Arguments from Tertullian to Barth,One,54.21,http://books.toscrape.com/media/cache/3f/ef/3fef12d9da503693af12997c0ea0897f.jpg
+A Shard of Ice (The Black Symphony Saga #1),Three,56.63,http://books.toscrape.com/media/cache/27/64/27649cb5da52970f4bb2fc5234a48578.jpg
+Out of Print: City Lights Spotlight No. 14,Five,53.64,http://books.toscrape.com/media/cache/93/d5/93d5c64abfad9ed6a0cb2e26f19f1a1e.jpg
+Miller's Valley,Two,58.54,http://books.toscrape.com/media/cache/dc/1a/dc1a54201eff16a11e7d84eef5ea36c7.jpg
+I'll Give You the Sun,One,56.48,http://books.toscrape.com/media/cache/af/93/af933f86038dc55487b5bf1d81ff4bfb.jpg
+A Hero's Curse (The Unseen Chronicles #1),Three,50.49,http://books.toscrape.com/media/cache/95/68/95685fabe00befa6dc91277cde703b55.jpg
+The High Mountains of Portugal,One,51.15,http://books.toscrape.com/media/cache/55/00/550091fc134bbe67f562d95a6d6313f7.jpg
+Silence in the Dark (Logan Point #4),Three,58.33,http://books.toscrape.com/media/cache/bb/1c/bb1c91883579f1f99fe6ebf13b92c1c1.jpg
+Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,Two,52.86,http://books.toscrape.com/media/cache/58/6a/586afa8809f59bff51b89b2bc4a16129.jpg
+Future Shock (Future Shock #1),Five,55.65,http://books.toscrape.com/media/cache/89/10/8910c36eec96636288a9cfb61610c9fa.jpg
+Between the World and Me,Four,56.91,http://books.toscrape.com/media/cache/73/45/7345c412c4c821f131d3c159e027c3a0.jpg
+Being Mortal: Medicine and What Matters in the End,Four,55.06,http://books.toscrape.com/media/cache/c7/7f/c77fdad22e40b8b923ec6c5b1f5a740f.jpg
+32 Yolks,Two,53.63,http://books.toscrape.com/media/cache/1d/1f/1d1fbd89f0290275b9166877663ee9f5.jpg
+The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),Five,52.30,http://books.toscrape.com/media/cache/95/d7/95d7541679fcbd579b8a4f2b47231aaf.jpg
+"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",Three,52.87,http://books.toscrape.com/media/cache/4f/1e/4f1ece2500f8dbacecca42d57befca03.jpg
+"Rich Dad, Poor Dad",One,51.74,http://books.toscrape.com/media/cache/18/f4/18f45d31e3892fee589e23f15d759ee3.jpg
+A Short History of Nearly Everything,Five,52.40,http://books.toscrape.com/media/cache/3c/f6/3cf646523ff7fb8647c500d6325cfcaf.jpg
+The Sound Of Love,Five,57.84,http://books.toscrape.com/media/cache/4e/3a/4e3a151bbe2629a55df09fd318fdeb0a.jpg
+The Perks of Being a Wallflower,Three,55.02,http://books.toscrape.com/media/cache/ca/5b/ca5b33c09daab4667ed37b330de889bd.jpg
+The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Four,59.45,http://books.toscrape.com/media/cache/92/fe/92fe1c1823653412fe68be2c525dfc3a.jpg
+What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Four,53.68,http://books.toscrape.com/media/cache/59/bc/59bcc421ae9f5a6f12ef11e849fb745d.jpg
+The Raven Boys (The Raven Cycle #1),Four,57.74,http://books.toscrape.com/media/cache/3c/a4/3ca4889e4bb7f9a1cc1d7a1c920e9d42.jpg
+The Hiding Place,Four,55.91,http://books.toscrape.com/media/cache/cf/18/cf187c1dc5575fcbbf49c58024146c4b.jpg
+The False Prince (The Ascendance Trilogy #1),Five,56.00,http://books.toscrape.com/media/cache/f8/e3/f8e371e2869d13b9d89999f8d5173245.jpg
+The Barefoot Contessa Cookbook,Five,59.92,http://books.toscrape.com/media/cache/dd/07/dd07bd0c443756b9dc260813c1949b4f.jpg
+Tell the Wolves I'm Home,Two,50.96,http://books.toscrape.com/media/cache/f9/72/f972e744117c9d4b5fefb3410c0e9f7c.jpg
+Fun Home: A Family Tragicomic,Four,56.59,http://books.toscrape.com/media/cache/54/ae/54ae8233e8422676c241d1cea0b67f1d.jpg
+Catherine the Great: Portrait of a Woman,Four,58.55,http://books.toscrape.com/media/cache/72/f1/72f13b8f069d3a018d2c378be5a1de20.jpg
+A Year in Provence (Provence #1),Four,56.88,http://books.toscrape.com/media/cache/db/46/db46159b05faa5d95262112bf9c29ddd.jpg
+Nightstruck: A Novel,Four,50.35,http://books.toscrape.com/media/cache/c0/df/c0dfd5388bb38b9c24da2e94534e1198.jpg
+Leave This Song Behind: Teen Poetry at Its Best,Five,51.17,http://books.toscrape.com/media/cache/31/c7/31c7c5ce7b04d227aa36ecb250b9dad5.jpg
+John Adams,Four,57.43,http://books.toscrape.com/media/cache/59/b4/59b4f94b4dc4c7cb844a6f24a5e2a41e.jpg
+"Chronicles, Vol. 1",Two,52.60,http://books.toscrape.com/media/cache/11/fc/11fc94453c4dc0d68543971d7843afb0.jpg
+Digital Fortress,Five,58.00,http://books.toscrape.com/media/cache/5c/77/5c770b251d27aeef263f8ae974ca02e0.jpg
+"Death Note, Vol. 5: Whiteout (Death Note #5)",One,52.41,http://books.toscrape.com/media/cache/4e/c1/4ec161cc09ee437c9eda6d437d232a11.jpg
+Approval Junkie: Adventures in Caring Too Much,Five,58.81,http://books.toscrape.com/media/cache/17/aa/17aacb738eace89a635a4eb47a94c11d.jpg
+America's War for the Greater Middle East: A Military History,Two,51.22,http://books.toscrape.com/media/cache/eb/17/eb178eceef1e9290591cabd5155571a3.jpg
+Last One Home (New Beginnings #1),Three,59.98,http://books.toscrape.com/media/cache/e4/0a/e40a336622fe578699be5a1eeba18f9d.jpg
+Alight (The Generations Trilogy #2),Four,58.59,http://books.toscrape.com/media/cache/5e/f3/5ef34ba3e937218db15178a1a5ce195f.jpg
+Vogue Colors A to Z: A Fashion Coloring Book,Four,52.35,http://books.toscrape.com/media/cache/1f/55/1f5541682b39b390a3db41430922d510.jpg
+The Pilgrim's Progress,Two,50.26,http://books.toscrape.com/media/cache/45/bb/45bb59d19eb3aa868293d44809078418.jpg
+The Perfect Play (Play by Play #1),Three,59.99,http://books.toscrape.com/media/cache/40/16/4016ffba678f309171d8130135f6eb8e.jpg
+The Demonists (Demonist #1),Two,52.11,http://books.toscrape.com/media/cache/1a/d2/1ad2a260776198051f4d1849be347cc6.jpg
+The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),Three,59.71,http://books.toscrape.com/media/cache/ee/d4/eed4d5d63d13f0aa86575c90f8ccacb7.jpg
+"Fruits Basket, Vol. 4 (Fruits Basket #4)",Four,50.44,http://books.toscrape.com/media/cache/38/79/38794d8729a111018260d931e7101de2.jpg
+Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,Three,50.66,http://books.toscrape.com/media/cache/ab/ac/abac4222af5cc296b704a0e5df82e162.jpg
+"Unstuffed: Decluttering Your Home, Mind, and Soul",One,58.09,http://books.toscrape.com/media/cache/14/07/1407c2d6318956b10abd970c2e83154d.jpg
+"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",One,53.51,http://books.toscrape.com/media/cache/77/bc/77bcc3cde72998ee488ac169f7e4e540.jpg
+The Wild Robot,Three,56.07,http://books.toscrape.com/media/cache/bf/db/bfdbf9726621276fc7821d705690dbae.jpg
+The Stand,Two,57.86,http://books.toscrape.com/media/cache/3a/7c/3a7c2393061031e7911d7b533b723391.jpg
+Candide,Three,58.63,http://books.toscrape.com/media/cache/e3/c4/e3c4aba2409bb769a6488805e3fc4709.jpg
+Animal Farm,Three,57.22,http://books.toscrape.com/media/cache/10/db/10db56354b4550d92270c6f097d9bebc.jpg
+A Walk to Remember,One,56.43,http://books.toscrape.com/media/cache/fa/1b/fa1b0fac146201645c740b02802e2211.jpg
+A New Earth: Awakening to Your Life's Purpose,Five,55.65,http://books.toscrape.com/media/cache/83/c8/83c834b3779be4e577c37ead6d2acf65.jpg
+"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",Five,55.55,http://books.toscrape.com/media/cache/bb/18/bb1845c22faea465cad3d556d22936a2.jpg
+The Rose & the Dagger (The Wrath and the Dawn #2),Four,58.64,http://books.toscrape.com/media/cache/57/9c/579cd2ca789c8a796a1864d08ee8d686.jpg
+The Nanny Diaries (Nanny #1),Five,52.53,http://books.toscrape.com/media/cache/63/5f/635fb981e464f7427787824b20a15e71.jpg
+The Lover's Dictionary,Two,58.09,http://books.toscrape.com/media/cache/47/e7/47e7563b0731a2b8131233f70d211f7a.jpg
+The Last Painting of Sara de Vos,Two,55.55,http://books.toscrape.com/media/cache/bf/fd/bffd473ab232c5f35e8c81bb927f1624.jpg
+The Husband's Secret,Five,52.51,http://books.toscrape.com/media/cache/f0/5b/f05be79a4b319e24819c318e35e6963c.jpg
+The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),One,57.48,http://books.toscrape.com/media/cache/2a/a2/2aa2d8c4a8bfc1972c806ca16718e5c5.jpg
+"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",Five,57.35,http://books.toscrape.com/media/cache/f9/69/f969969428b505970a46272fdcea00d3.jpg
+The Demon-Haunted World: Science as a Candle in the Dark,Four,52.25,http://books.toscrape.com/media/cache/4a/35/4a352dc298e4bbe6ba5f81bbc0d41ca0.jpg
+The Book Thief,Two,53.49,http://books.toscrape.com/media/cache/ff/a0/ffa08bf29ae0a5c9e91564dba71cde90.jpg
+The Blind Side: Evolution of a Game,Five,53.71,http://books.toscrape.com/media/cache/5e/ee/5eeecab909b9e87ddfb6e3d31078fbbf.jpg
+Something Blue (Darcy & Rachel #2),One,54.62,http://books.toscrape.com/media/cache/72/f5/72f5ed312bc82afa386c9cd48d4e36dd.jpg
+Seven Days in the Art World,Two,52.33,http://books.toscrape.com/media/cache/35/2c/352c1a7e155c5d03d073bf8ce1564caa.jpg
+Rogue Lawyer (Rogue Lawyer #1),Three,50.11,http://books.toscrape.com/media/cache/92/e4/92e4e180ba8fbde3b8ac0c1e71cfc5f4.jpg
+Packing for Mars: The Curious Science of Life in the Void,Two,56.68,http://books.toscrape.com/media/cache/8d/72/8d7216b05e1b5edf9bdb0d2db295ca33.jpg
+Into the Wild,Five,56.70,http://books.toscrape.com/media/cache/e2/ca/e2ca3b870db8071034edea19b1da3de2.jpg
+House of Leaves,One,54.89,http://books.toscrape.com/media/cache/14/25/142563ccee483bc07632f9c083a68326.jpg
+Holidays on Ice,Two,51.07,http://books.toscrape.com/media/cache/4b/9a/4b9a2a6d4c995e12fe216f6173a582be.jpg
+"Friday Night Lights: A Town, a Team, and a Dream",Three,51.22,http://books.toscrape.com/media/cache/7d/cf/7dcf6c3b419bf7e7e3b3b8162b177869.jpg
+"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",One,57.83,http://books.toscrape.com/media/cache/7c/8e/7c8ea0cef3825cc6ddae55267c55a59e.jpg
+Dune (Dune #1),One,54.86,http://books.toscrape.com/media/cache/7a/bc/7abccb865ecf9b0f676800b10c71cfd6.jpg
+Dracula,Three,52.62,http://books.toscrape.com/media/cache/ef/d7/efd7c316b4d60a403ba6d111fdeb2d41.jpg
+Do Androids Dream of Electric Sheep? (Blade Runner #1),One,51.48,http://books.toscrape.com/media/cache/fa/65/fa653fbe3a4c69227c9b79d471cee576.jpg
+Darkfever (Fever #1),One,56.02,http://books.toscrape.com/media/cache/af/08/af08d08c90b4df63ca5a2819a754da18.jpg
+Midnight Riot (Peter Grant/ Rivers of London - books #1),Two,55.46,http://books.toscrape.com/media/cache/e6/57/e6574a313ad7e6adf97a1d71318f9a7f.jpg
+Me Talk Pretty One Day,Two,57.60,http://books.toscrape.com/media/cache/98/9f/989fe700e9e6bdec4fc3217daa5b7df3.jpg
+Life Without a Recipe,Five,59.04,http://books.toscrape.com/media/cache/80/b3/80b3e38be4204b3b64cdbe8c80dcf1f9.jpg
+"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Five,55.50,http://books.toscrape.com/media/cache/a1/03/a10370da29e4ba78c7a75a14041eae0e.jpg
+Lady Renegades (Rebel Belle #3),Five,53.04,http://books.toscrape.com/media/cache/d2/c2/d2c259e13fe3097325549a14f996b462.jpg
+Civilization and Its Discontents,Two,59.95,http://books.toscrape.com/media/cache/4d/a6/4da6939a6bbd895a5acdeabad46d1f9f.jpg
+Brave Enough,Five,51.32,http://books.toscrape.com/media/cache/94/c7/94c7add56827e01998189a021ec060e2.jpg
+Are We Smart Enough to Know How Smart Animals Are?,One,56.58,http://books.toscrape.com/media/cache/71/d1/71d199b2abd878b9943dc818b77a1e72.jpg
+A Heartbreaking Work of Staggering Genius,Five,54.29,http://books.toscrape.com/media/cache/7a/58/7a587c5814f33c0c54e8bfa0ef66d690.jpg
+#GIRLBOSS,One,50.96,http://books.toscrape.com/media/cache/70/9a/709a7625e50abf3fc3f26c0396a62131.jpg
+"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",One,54.81,http://books.toscrape.com/media/cache/e3/ae/e3ae48fe07d77611b49b5b78d99418ae.jpg
+H is for Hawk,Five,57.42,http://books.toscrape.com/media/cache/78/3c/783c89d21306b712d832dbac267b786a.jpg
+Girl Online On Tour (Girl Online #2),One,53.47,http://books.toscrape.com/media/cache/e0/22/e0221ab11b1d093a2d03927b4962c544.jpg
+Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),Four,52.88,http://books.toscrape.com/media/cache/47/16/47160ff71abe23cb52968b3d1b9b7988.jpg
+When I'm Gone,Three,51.96,http://books.toscrape.com/media/cache/13/a3/13a361d57f2b6021b2ae395a6fedd475.jpg
+Vampire Girl (Vampire Girl #1),Two,53.82,http://books.toscrape.com/media/cache/ea/55/ea5547a00ad163902faba6929369bc77.jpg
+Travels with Charley: In Search of America,Five,57.82,http://books.toscrape.com/media/cache/ff/60/ff60e98e3da9c76d6f65b26bd7142d94.jpg
+"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",Three,54.12,http://books.toscrape.com/media/cache/56/ea/56eac75378feb4cab0dcb9d2101cf58b.jpg
+The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),Four,57.70,http://books.toscrape.com/media/cache/34/2e/342ec55d460f3dd49d77dac2bd4ff489.jpg
+The Name of the Wind (The Kingkiller Chronicle #1),Three,50.59,http://books.toscrape.com/media/cache/6a/b3/6ab3616e7495ef64b1546a178cf8a9e7.jpg
+The Light of the Fireflies,One,54.43,http://books.toscrape.com/media/cache/17/8e/178e6e1cee8e5980e31148ea10a7321f.jpg
+The Bhagavad Gita,Three,57.49,http://books.toscrape.com/media/cache/4e/69/4e69dacc99de838814d0f65c94e67f6c.jpg
+Shameless,Three,58.35,http://books.toscrape.com/media/cache/a2/19/a2198abf12e3287f84997b35f4e1050e.jpg
+One Second (Seven #7),Two,52.94,http://books.toscrape.com/media/cache/3f/f3/3ff3f7a0f3c949bb7adbe5f7fe80b9ab.jpg
+"Eat, Pray, Love",Three,51.32,http://books.toscrape.com/media/cache/21/95/2195c296e82620593a143356aeaa7745.jpg
+Alice in Wonderland (Alice's Adventures in Wonderland #1),One,55.53,http://books.toscrape.com/media/cache/96/ee/96ee77d71a31b7694dac6855f6affe4e.jpg
+"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",Four,57.06,http://books.toscrape.com/media/cache/09/7c/097cb5ecc6fb3fbe1690cf0cbdea4ac5.jpg
+1st to Die (Women's Murder Club #1),One,53.98,http://books.toscrape.com/media/cache/2b/41/2b4161c5b72a4ae386b644682361b34a.jpg
+Old Records Never Die: One Man's Quest for His Vinyl and His Past,Two,55.66,http://books.toscrape.com/media/cache/7e/94/7e947f3dd04f178175b85123829467a9.jpg
+Myriad (Prentor #1),Four,58.75,http://books.toscrape.com/media/cache/6b/fa/6bfae8a489ff53f50467705c1e6fff19.jpg
+Listen to Me (Fusion #1),Three,58.99,http://books.toscrape.com/media/cache/00/dd/00dd43f59d255cbc16e9d9c9ed20a997.jpg
+Kitchens of the Great Midwest,Five,57.20,http://books.toscrape.com/media/cache/5e/37/5e379c1cc7003127bc74257a1b721540.jpg
+"Giant Days, Vol. 1 (Giant Days #1-4)",Four,56.76,http://books.toscrape.com/media/cache/35/0b/350b1224dc46533851d5a34134e44842.jpg
